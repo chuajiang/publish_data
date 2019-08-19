@@ -1,0 +1,1 @@
+Data and files in this folder are for publish of Ray-tracing synthesis of ionograms with spread F. The file "Ray-tracing synthesis of ionograms with spread F.m" can plot all figures in the paper.
