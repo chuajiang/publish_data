@@ -1,0 +1,1 @@
+This data is for the draft associated with Upwelling Coherent Backscatter Plumes Observed with Ionosondes in Low-Latitude Region. The details please refer to the word version of 'readme for the data.docx'.
