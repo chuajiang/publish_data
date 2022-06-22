@@ -1,1 +1,1 @@
-Ionogram data at Puer station 
+Please see the document 'readme for the data.docx' for the data. Ionogram data used for statistical study are too large to upload. The data associated with case studies are uploaded. If readers would like to get more data, please contact Chunhua Jiang (chuajiang@whu.edu.cn).
